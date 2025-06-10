@@ -55,13 +55,10 @@ Yeah, we’re gonna finish this.
 
 ---
 
-### ✨ Follow along or contribute at:  
-🔗 [https://github.com/YourName/NatZeroHeroes](https://github.com/YourName/NatZeroHeroes)
-
 
 ### 😽 Donate to our cats 😽:
 
 While I look for work, donations would be appreciated, but as always never expected. 
 All money donated goes directly to our animals food and vet visits.
 
-[https://www.paypal.com/paypalme/celtthunder] (PayPal)
+https://www.paypal.com/paypalme/celtthunder
