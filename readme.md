@@ -30,7 +30,7 @@ Minimal UI. Maximal tension. You’re not meant to win — you’re meant to try
 
 ## 🗺 Project Goals
 
-- 🧪 Small and scope-controlled (3-day limit)
+- 🧪 Small and scope-controlled 
 - 💻 Clean C# architecture (no spaghetti zones)
 - 🎨 Minimalist but stylish — black, gold, and void purple aesthetic
 - 🧙‍♂️ Modular combat system (dice + buffs + turn logic)
